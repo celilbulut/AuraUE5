@@ -1,0 +1,3 @@
+[submodule "Plugins/CrowdGeneration"]
+	path = Plugins/CrowdGeneration
+	url = https://github.com/omrkocar/CrowdGenerationPlugin
