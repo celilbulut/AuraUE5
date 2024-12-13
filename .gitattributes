@@ -1,0 +1,2 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/UnrealEditor-Aura-Win64-DebugGame.dll filter=lfs diff=lfs merge=lfs -text
