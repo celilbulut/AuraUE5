@@ -43,6 +43,8 @@
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/Actor/TestActor/BP_TestActor.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/Actor/TestActor/GE_TestAttributeBased.uasset",
+				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraPrimaryAttributes.uasset",
+				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_AuraSecondaryAttributes.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/AbilitySystem/Data/DT_InitialPromaryValue.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/Actor/Potion/GE_CrystalHeal.uasset",
