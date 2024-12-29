@@ -1,11 +1,10 @@
-// Copyright Druid Mechanics
+// Copyright Celil Bulut
 
 #pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
 #include "AuraPlayerController.generated.h"
-
 
 class UInputMappingContext;
 class UInputAction;
@@ -35,7 +34,6 @@ private:
 	void Move(const FInputActionValue& InputActionValue);
 
 	void CursorTrace();
-
-	TScriptInterface<IEnemyInterface> LastActor;
-	TScriptInterface<IEnemyInterface> ThisActor;
+	IEnemyInterface* LastActor;
+	IEnemyInterface* ThisActor;
 };
