@@ -53,6 +53,7 @@
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/UI/Button/WBP_Button.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/UI/Button/WBP_WideButton.uasset",
+				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/AbilitySystem/Data/DA_AttributeInfo.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/GE_AuraPrimaryAttributes.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/AbilitySystem/Data/DT_InitialPromaryValue.uasset",
 				"A:/UE5/Aura_UE_5.5-git/AuraUE5/Content/Blueprints/Actor/Potion/CT_PotionHeal.uasset",
