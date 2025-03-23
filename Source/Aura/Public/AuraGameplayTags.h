@@ -38,9 +38,15 @@ public:
 	FGameplayTag Attribute_Secondary_ManaRegeneration;
 	FGameplayTag Attribute_Secondary_MaxHealth;
 	FGameplayTag Attribute_Secondary_MaxMana;
-	
-protected:
 
+	FGameplayTag InputTag_LMB;  //Left mouse buttonu icin key atadik
+	FGameplayTag InputTag_RMB;	//Right mouse buttonu icin key atadik
+	FGameplayTag InputTag_1;	//Her hangi bir key atadik
+	FGameplayTag InputTag_2;	//Her hangi bir key atadik
+	FGameplayTag InputTag_3;	//Her hangi bir key atadik
+	FGameplayTag InputTag_4;	//Her hangi bir key atadik
+
+	
 private:
 	static FAuraGameplayTags GameplayTags;
 };
