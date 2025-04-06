@@ -1,4 +1,4 @@
-// Copyright Druid Mechanics
+// Copyright Celil Bulut
 
 #pragma once
 
