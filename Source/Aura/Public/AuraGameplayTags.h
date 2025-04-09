@@ -46,6 +46,7 @@ public:
 	FGameplayTag InputTag_3;	//Her hangi bir key atadik
 	FGameplayTag InputTag_4;	//Her hangi bir key atadik
 
+	FGameplayTag Damage;
 	
 private:
 	static FAuraGameplayTags GameplayTags;
