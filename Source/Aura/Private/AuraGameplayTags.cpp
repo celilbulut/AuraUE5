@@ -2,8 +2,6 @@
 
 
 #include "AuraGameplayTags.h"
-
-#include "AssetTypeCategories.h"
 #include "GameplayTagsManager.h"
 
 FAuraGameplayTags FAuraGameplayTags::GameplayTags;
@@ -121,4 +119,14 @@ void FAuraGameplayTags::InitializeNativeGameplayTags()
 		FName("InputTag.4"),
 		FString("Input Tag for 4 key")
 		);
+
+	GameplayTags.Damage = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Damage"),
+		FString("Input Tag for Damage")
+		);
+
+	GameplayTags.Effects_HitReact = UGameplayTagsManager::Get().AddNativeGameplayTag(
+	FName("Effects.HitReact"),
+	FString("Tag granted when Hit Reacting")
+	);
 }
